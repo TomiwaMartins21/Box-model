@@ -1,0 +1,25 @@
+#div1{
+height: 300px;
+width: 250px;
+border: 1px solid orange;
+padding: 40px;
+margin: 10px;
+float: left;
+}
+
+#div2 {
+    height: 300px;
+    width: 250px;
+    border: 1px solid orange;
+    padding: 40px;
+    margin: 10px;
+    float: left;
+}
+#div3 {
+    height: 300px;
+    width: 250px;
+    border: 1px solid orange;
+    padding: 40px;
+    margin: 10px;
+    float: left;
+}
